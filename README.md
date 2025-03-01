@@ -1,6 +1,7 @@
+<img src="image/images (4).jpeg" alt="teknologi">
 <h1 align="center">Hi 👋, I'm Muhammad Fadli Rahmansyah_G1A023005</h1>
 <h3 align="center">A Passionate frontend developer from Frontend and is a student of Bengkulu University</h3>
-<img src="https://www.freepik.com/search?format=search&last_filter=query&last_value=animasi+teknologi&query=animasi+teknologi" alt="">
+
 
 <p align="left"> <a href="https://twitter.com/https://x.com/fadli86354137?t=2nykjaicmj42h__xli9d3q&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/fadli86354137?t=2nykjaicmj42h__xli9d3q&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/fadli86354137?t=2nykjaicmj42h__xli9d3q&s=09" /></a> </p>
 
