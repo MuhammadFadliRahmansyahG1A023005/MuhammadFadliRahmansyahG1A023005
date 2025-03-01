@@ -1,4 +1,4 @@
-![image alt](https://www.istockphoto.com/id/video/animasi-konsep-teknologi-mata-digital-biru-gm1280407664-378726600)
+https://github.com/user-attachments/assets/5f0d7e54-ca1e-4935-bbab-aa43712fb552
 <h1 align="center">Hi 👋, I'm Muhammad Fadli Rahmansyah_G1A023005</h1>
 <h3 align="center">A Passionate frontend developer from Frontend and is a student of Bengkulu University</h3>
 
