@@ -1,4 +1,4 @@
-<img src="image/images (4).jpeg" alt="teknologi">
+![image alt]https://github.com/MuhammadFadliRahmansyahG1A023005/MuhammadFadliRahmansyahG1A023005/blob/main/images%20(4).jpeg?raw=true
 <h1 align="center">Hi 👋, I'm Muhammad Fadli Rahmansyah_G1A023005</h1>
 <h3 align="center">A Passionate frontend developer from Frontend and is a student of Bengkulu University</h3>
 
