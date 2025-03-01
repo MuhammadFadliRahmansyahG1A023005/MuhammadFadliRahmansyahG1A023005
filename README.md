@@ -2,6 +2,9 @@ https://github.com/user-attachments/assets/5f0d7e54-ca1e-4935-bbab-aa43712fb552
 <h1 align="center">Hi 👋, I'm Muhammad Fadli Rahmansyah_G1A023005</h1>
 <h3 align="center">A Passionate frontend developer from Frontend and is a student of Bengkulu University</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfadlirahmansyahg1a023005&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfadlirahmansyahg1a023005" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadfadlirahmansyahg1a023005" alt="muhammadfadlirahmansyahg1a023005" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://x.com/fadli86354137?t=2nykjaicmj42h__xli9d3q&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/fadli86354137?t=2nykjaicmj42h__xli9d3q&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/fadli86354137?t=2nykjaicmj42h__xli9d3q&s=09" /></a> </p>
 
