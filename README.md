@@ -8,6 +8,8 @@ https://github.com/user-attachments/assets/5f0d7e54-ca1e-4935-bbab-aa43712fb552
 
 <p align="left"> <a href="https://twitter.com/https://x.com/fadli86354137?t=2nykjaicmj42h__xli9d3q&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/fadli86354137?t=2nykjaicmj42h__xli9d3q&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/fadli86354137?t=2nykjaicmj42h__xli9d3q&s=09" /></a> </p>
 
+- 🔭 I’m currently working on [laravel](http://laravel11.test/)
+
 - 👯 I’m looking to collaborate on [Gihutb](https://github.com/MuhammadFadliRahmansyahG1A023005)
 
 - 🤝 I’m looking for help with [Website Profile Company](https://muhammadfadlirahmansyahg1a023005.github.io/TUGASWEB/index.html)
